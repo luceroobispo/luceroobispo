@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luceroobispo&label=Profile%20views&color=0e75b6&style=flat" alt="luceroobispo" /> </p>
 
-- 🎯 I’m currently working on **Unity videogames** https://github.com/luceroobispo/UnityVideogames_Practice.git
+- 🎯 I’m currently working on programming **Unity videogames** https://github.com/luceroobispo/UnityVideogames_Practice.git
 
 - 🌱 I’m currently learning **Algorithms and data structure**
 
