@@ -5,7 +5,7 @@
 
 - 🎯 I’m currently working on programming **Unity videogames** https://github.com/luceroobispo/UnityVideogames_Practice.git
 
-- 🌱 I’m currently learning **Algorithms and data structure**
+- 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **C++**
 
