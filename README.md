@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C++, Python, SQL**
 
 - 🎯 Know about my experiences **www.linkedin.com/in/luceroobispo**
 
