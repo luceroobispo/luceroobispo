@@ -5,7 +5,7 @@
 
 - 🎯 I am presently looking for chances to engage in pre-professional internships or projects where I can be actively involved.
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **App development**
 
 - 💬 Ask me about anything
 
