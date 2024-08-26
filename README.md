@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luceroobispo&label=Profile%20views&color=0e75b6&style=flat" alt="luceroobispo" /> </p>
 
-- 🎯 I am presently looking for chances to engage in pre-professional internships or projects where I can be actively involved.
+- 🎯 I am presently looking for chances to engage in internships or projects where I can be actively involved.
 
 - 🌱 I’m currently learning **App development**
 
